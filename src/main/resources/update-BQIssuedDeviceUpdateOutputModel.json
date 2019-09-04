@@ -1,0 +1,17 @@
+{
+  "issuedDeviceUpdateActionTaskRecord" : {},
+  "issuedDeviceUpdateActionTaskReference" : "IDUATR738072",
+  "updateResponseRecord" : {},
+  "issuedDeviceInstanceRecord" : {
+    "issuedDeviceProperty" : {
+      "issuedDeviceStatus" : "issuedDeviceStatus",
+      "issuedDevicePropertyType" : {
+        "issuedDevicePropertyValue" : "issuedDevicePropertyValue"
+      }
+    },
+    "issuedDeviceDescription" : "issuedDeviceDescription",
+    "issuedDeviceOptionSetting" : "issuedDeviceOptionSetting",
+    "issuedDeviceOptionDefinition" : "issuedDeviceOptionDefinition",
+    "issuedDeviceType" : "issuedDeviceType"
+  }
+}

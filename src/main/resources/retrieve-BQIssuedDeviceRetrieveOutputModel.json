@@ -1,0 +1,57 @@
+{
+  "cRCreditChargeCardFulfillmentArrangementInstanceRecord" : {
+    "allowedAccess" : "allowedAccess",
+    "associations" : {
+      "associationReference" : "756228",
+      "associationType" : "associationType",
+      "associationObligationEntitlement" : "associationObligationEntitlement"
+    },
+    "productInstanceReference" : "788622",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "customerReference" : "761260",
+    "positionLimits" : {
+      "positionLimitSettings" : "positionLimitSettings",
+      "positionLimitType" : "positionLimitType",
+      "positionLimitValue" : "positionLimitValue"
+    },
+    "linkedAccounts" : {
+      "accountDetails" : "accountDetails",
+      "linkType" : "linkType"
+    },
+    "configurationOptions" : {
+      "creditChargeCardFulfillmentArrangementOptionDefinition" : "creditChargeCardFulfillmentArrangementOptionDefinition",
+      "creditChargeCardFulfillmentArrangementOptionSetting" : "creditChargeCardFulfillmentArrangementOptionSetting"
+    },
+    "partyReference" : "728276",
+    "bankBranchLocationReference" : "728026"
+  },
+  "issuedDeviceRetrieveActionTaskRecord" : {},
+  "issuedDeviceRetrieveActionResponse" : "issuedDeviceRetrieveActionResponse",
+  "issuedDeviceInstanceAnalysis" : {
+    "issuedDeviceInstanceAnalysisReportType" : "issuedDeviceInstanceAnalysisReportType",
+    "issuedDeviceInstanceAnalysisReport" : {},
+    "issuedDeviceInstanceAnalysisRecord" : {},
+    "issuedDeviceInstanceAnalysisParameters" : "issuedDeviceInstanceAnalysisParameters"
+  },
+  "issuedDeviceInstanceReport" : {
+    "issuedDeviceInstanceReportRecord" : {},
+    "issuedDeviceInstanceReportType" : "issuedDeviceInstanceReportType",
+    "issuedDeviceInstanceReport" : {},
+    "issuedDeviceInstanceReportParameters" : "issuedDeviceInstanceReportParameters"
+  },
+  "issuedDeviceInstanceRecord" : {
+    "issuedDeviceProperty" : {
+      "issuedDeviceStatus" : "issuedDeviceStatus",
+      "issuedDevicePropertyType" : {
+        "issuedDevicePropertyValue" : "issuedDevicePropertyValue"
+      }
+    },
+    "issuedDeviceDescription" : "issuedDeviceDescription",
+    "issuedDeviceOptionSetting" : "issuedDeviceOptionSetting",
+    "issuedDeviceOptionDefinition" : "issuedDeviceOptionDefinition",
+    "issuedDeviceType" : "issuedDeviceType"
+  },
+  "issuedDeviceRetrieveActionTaskReference" : "IDRATR745122"
+}

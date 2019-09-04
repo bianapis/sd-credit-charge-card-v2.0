@@ -1,0 +1,17 @@
+{
+  "billingInstanceRecord" : {
+    "billingTransaction" : {
+      "billingTransactionAddress" : "billingTransactionAddress",
+      "billingTransactionPaymentDueDate" : "09-22-2018",
+      "billingTransactionAmount" : "USD 250",
+      "billingTransactionMinimumRequiredPayment" : "billingTransactionMinimumRequiredPayment",
+      "billingTransactionStatementReference" : "779122",
+      "billingTransactionParty" : "billingTransactionParty",
+      "billingTransactionPeriod" : "billingTransactionPeriod"
+    },
+    "billingParameters" : "billingParameters"
+  },
+  "updateResponseRecord" : {},
+  "billingUpdateActionTaskRecord" : {},
+  "billingUpdateActionTaskReference" : "BUATR765146"
+}

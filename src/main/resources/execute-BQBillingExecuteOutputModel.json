@@ -1,0 +1,17 @@
+{
+  "billingExecuteRecordReference" : "BERR724142",
+  "executeResponseRecord" : {},
+  "billingInstanceRecord" : {
+    "billingTransaction" : {
+      "billingTransactionAddress" : "billingTransactionAddress",
+      "billingTransactionPaymentDueDate" : "09-22-2018",
+      "billingTransactionAmount" : "USD 250",
+      "billingTransactionMinimumRequiredPayment" : "billingTransactionMinimumRequiredPayment",
+      "billingTransactionParty" : "billingTransactionParty",
+      "billingTransactionPeriod" : "billingTransactionPeriod"
+    },
+    "billingParameters" : "billingParameters"
+  },
+  "billingExecuteActionTaskReference" : "BEATR766723",
+  "billingExecuteActionTaskRecord" : {}
+}

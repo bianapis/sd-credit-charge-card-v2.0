@@ -1,0 +1,24 @@
+{
+  "cardTransactionUpdateActionTaskReference" : "CTUATR764846",
+  "cardTransactionInstanceRecord" : {
+    "cardTransaction" : {
+      "cardTransactionProductInstanceReference" : "707676",
+      "cardTransactionMerchantReference" : "761100",
+      "cardTransactionInterchargeFee" : "USD 250",
+      "cardTransactionIssuingBankReference" : "782147",
+      "cardTransactionType" : "cardTransactionType",
+      "cardTransactionMerchantAcquiringBankReference" : "764711",
+      "cardTransactionLocationReference" : "761538",
+      "cardTransactionCurrency" : "USD",
+      "cardTransactionAmountType" : "cardTransactionAmountType",
+      "cardTransactionFXConversionCharge" : "USD 250",
+      "cardTransactionNetworkReference" : "742083",
+      "cardTransactionProductServiceReference" : "764958",
+      "cardTransactionDateTime" : "09-22-2018",
+      "cardTransactionAmount" : "USD 250",
+      "cardTransactionAuthorizationRecord" : {}
+    }
+  },
+  "cardTransactionUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {}
+}

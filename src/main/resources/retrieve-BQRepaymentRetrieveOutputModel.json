@@ -1,0 +1,34 @@
+{
+  "cRCreditChargeCardFulfillmentArrangementInstanceRecord" : {
+    "productInstanceReference" : "777492",
+    "customerReference" : "715797",
+    "partyReference" : "717241"
+  },
+  "repaymentRetrieveActionTaskReference" : "RRATR706558",
+  "repaymentInstanceReport" : {
+    "repaymentInstanceReportParameters" : "repaymentInstanceReportParameters",
+    "repaymentInstanceReportType" : "repaymentInstanceReportType",
+    "repaymentInstanceReport" : {},
+    "repaymentInstanceReportRecord" : {}
+  },
+  "repaymentRetrieveActionResponse" : "repaymentRetrieveActionResponse",
+  "repaymentInstanceRecord" : {
+    "repaymentTransaction" : {
+      "repaymentTransactionPayerProductInstanceReference" : "702474",
+      "repaymentTransactionCurrency" : "USD",
+      "repaymentTransactionType" : "repaymentTransactionType",
+      "billingInstanceReference" : "766106",
+      "repaymentTransactionAmount" : "USD 250",
+      "repaymentTransactionPayerReference" : "713409",
+      "repaymentTransactionPayerBankReference" : "762135",
+      "repaymentTransactionValueDate" : "09-22-2018"
+    }
+  },
+  "repaymentRetrieveActionTaskRecord" : {},
+  "repaymentInstanceAnalysis" : {
+    "repaymentInstanceAnalysisReportType" : "repaymentInstanceAnalysisReportType",
+    "repaymentInstanceAnalysisRecord" : {},
+    "repaymentInstanceAnalysisReport" : {},
+    "repaymentInstanceAnalysisParameters" : "repaymentInstanceAnalysisParameters"
+  }
+}

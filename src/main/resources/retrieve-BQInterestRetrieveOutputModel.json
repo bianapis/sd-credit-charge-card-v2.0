@@ -1,0 +1,61 @@
+{
+  "cRCreditChargeCardFulfillmentArrangementInstanceRecord" : {
+    "productInstanceReference" : "707284",
+    "taxReference" : "788037",
+    "restrictionOptionSetting" : "restrictionOptionSetting",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "customerReference" : "722394",
+    "positionLimits" : {
+      "positionLimitSettings" : "positionLimitSettings",
+      "positionLimitType" : "positionLimitType",
+      "positionLimitValue" : "positionLimitValue"
+    },
+    "secondaryBillingCurrency" : "USD",
+    "linkedAccounts" : {
+      "accountDetails" : "accountDetails",
+      "linkType" : "linkType"
+    },
+    "accountCurrency" : "USD",
+    "configurationOptions" : {
+      "creditChargeCardFulfillmentArrangementOptionDefinition" : "creditChargeCardFulfillmentArrangementOptionDefinition",
+      "creditChargeCardFulfillmentArrangementOptionSetting" : "creditChargeCardFulfillmentArrangementOptionSetting"
+    },
+    "partyReference" : "708281"
+  },
+  "interestRetrieveActionResponse" : "interestRetrieveActionResponse",
+  "interestRetrieveActionTaskReference" : "IRATR781640",
+  "interestInstanceRecord" : {
+    "interestRateConfiguration" : {
+      "interestRate" : "interestRate",
+      "interestRateType" : "interestRateType"
+    },
+    "interestApplicationRecord" : {
+      "interestTransaction" : {
+        "transactionInterestCharge" : "USD 250",
+        "transactionRateType" : "transactionRateType",
+        "transactionDescription" : "transactionDescription"
+      },
+      "interestAccrualAmount" : {
+        "interestAccrualCharge" : "USD 250",
+        "interestAccrualType" : "interestAccrualType"
+      }
+    },
+    "interestRateType" : "interestRateType",
+    "interestRateApplicationSchedule" : "interestRateApplicationSchedule"
+  },
+  "interestRetrieveActionTaskRecord" : {},
+  "interestInstanceReport" : {
+    "interestInstanceReportRecord" : {},
+    "interestInstanceReportParameters" : "interestInstanceReportParameters",
+    "interestInstanceReportType" : "interestInstanceReportType",
+    "interestInstanceReport" : {}
+  },
+  "interestInstanceAnalysis" : {
+    "interestInstanceAnalysisRecord" : {},
+    "interestInstanceAnalysisParameters" : "interestInstanceAnalysisParameters",
+    "interestInstanceAnalysisReportType" : "interestInstanceAnalysisReportType",
+    "interestInstanceAnalysisReport" : {}
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "creditPlanUpdateActionTaskReference" : "CPUATR767497",
+  "creditPlanInstanceRecord" : {
+    "creditPlanType" : "creditPlanType",
+    "creditPlanAccountReference" : "723809",
+    "creditPlanTerms" : "creditPlanTerms"
+  },
+  "updateResponseRecord" : {},
+  "creditPlanUpdateActionTaskRecord" : {}
+}

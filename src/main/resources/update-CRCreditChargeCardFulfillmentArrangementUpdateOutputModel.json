@@ -1,0 +1,46 @@
+{
+  "creditChargeCardFulfillmentArrangementUpdateActionTaskReference" : "CCCFAUATR752061",
+  "cRCreditChargeCardFulfillmentArrangementInstanceRecord" : {
+    "allowedAccess" : "allowedAccess",
+    "associations" : {
+      "associationReference" : "799005",
+      "associationType" : "associationType",
+      "associationObligationEntitlement" : "associationObligationEntitlement"
+    },
+    "taxReference" : "793428",
+    "restrictionOptionSetting" : "restrictionOptionSetting",
+    "restrictionOptionDefinition" : "restrictionOptionDefinition",
+    "statementsSchedule" : {
+      "statementPeriod" : "statementPeriod",
+      "statementTransactionType" : "statementTransactionType",
+      "statementType" : "statementType",
+      "statementReport" : {}
+    },
+    "positionLimits" : {
+      "positionLimitSettings" : "positionLimitSettings",
+      "positionLimitType" : "positionLimitType",
+      "positionLimitValue" : "positionLimitValue"
+    },
+    "secondaryBillingCurrency" : "USD",
+    "accountCurrency" : "USD",
+    "configurationOptions" : {
+      "creditChargeCardFulfillmentArrangementOptionDefinition" : "creditChargeCardFulfillmentArrangementOptionDefinition",
+      "creditChargeCardFulfillmentArrangementOptionSetting" : "creditChargeCardFulfillmentArrangementOptionSetting"
+    },
+    "partyReference" : "745598",
+    "bankBranchLocationReference" : "748713",
+    "productInstanceReference" : "786295",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "entitlementOptionSetting" : "entitlementOptionSetting",
+    "customerReference" : "797163",
+    "linkedAccounts" : {
+      "accountDetails" : "accountDetails",
+      "linkType" : "linkType"
+    },
+    "entitlementOptionDefinition" : "entitlementOptionDefinition"
+  },
+  "creditChargeCardFulfillmentArrangementUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {}
+}

@@ -1,0 +1,79 @@
+{
+  "cRCreditChargeCardFulfillmentArrangementInstanceRecord" : {
+    "taxReference" : "719755",
+    "restrictionOptionSetting" : "restrictionOptionSetting",
+    "restrictionOptionDefinition" : "restrictionOptionDefinition",
+    "statementsSchedule" : {
+      "statementPeriod" : "statementPeriod",
+      "statementTransactionType" : "statementTransactionType",
+      "statementType" : "statementType",
+      "statementReport" : {}
+    },
+    "secondaryBillingCurrency" : "USD",
+    "accountCurrency" : "USD",
+    "configurationOptions" : {
+      "creditChargeCardFulfillmentArrangementOptionDefinition" : "creditChargeCardFulfillmentArrangementOptionDefinition",
+      "creditChargeCardFulfillmentArrangementOptionSetting" : "creditChargeCardFulfillmentArrangementOptionSetting"
+    },
+    "partyReference" : "745473",
+    "bankBranchLocationReference" : "788306",
+    "productInstanceReference" : "759865",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "customerReference" : "799541",
+    "linkedAccounts" : {
+      "accountDetails" : "accountDetails",
+      "linkType" : "linkType"
+    }
+  },
+  "billingRetrieveActionTaskRecord" : {},
+  "billingInstanceRecord" : {
+    "billingTransaction" : {
+      "billingTransactionAddress" : "billingTransactionAddress",
+      "billingTransactionPaymentDueDate" : "09-22-2018",
+      "billingTransactionAmount" : "USD 250",
+      "billingTransactionMinimumRequiredPayment" : "billingTransactionMinimumRequiredPayment",
+      "billingTransactionStatementReference" : "711260",
+      "billingTransactionParty" : "billingTransactionParty",
+      "billingTransactionPeriod" : "billingTransactionPeriod"
+    },
+    "billingParameters" : "billingParameters"
+  },
+  "billingInstanceReport" : {
+    "billingInstanceReportType" : "billingInstanceReportType",
+    "billingInstanceReportRecord" : {},
+    "billingInstanceReportParameters" : "billingInstanceReportParameters",
+    "billingInstanceReport" : {}
+  },
+  "interestInstanceRecord" : {
+    "interestApplicationRecord" : {
+      "interestTransaction" : {
+        "transactionInterestCharge" : "USD 250"
+      },
+      "interestAccrualAmount" : {
+        "interestAccrualCharge" : "USD 250",
+        "interestAccrualType" : "interestAccrualType"
+      }
+    }
+  },
+  "billingRetrieveActionResponse" : "billingRetrieveActionResponse",
+  "serviceFeesInstanceRecord" : {
+    "feeAccrualAmount" : {
+      "accrualFeeType" : "accrualFeeType",
+      "accrualFeeCharge" : "USD 250"
+    },
+    "feeTransaction" : {
+      "transactionFeeCharge" : "USD 250",
+      "transactionDescription" : "transactionDescription",
+      "transactionFeeType" : "transactionFeeType"
+    }
+  },
+  "billingRetrieveActionTaskReference" : "BRATR738300",
+  "billingInstanceAnalysis" : {
+    "billingInstanceAnalysisReportType" : "billingInstanceAnalysisReportType",
+    "billingInstanceAnalysisRecord" : {},
+    "billingInstanceAnalysisReport" : {},
+    "billingInstanceAnalysisParameters" : "billingInstanceAnalysisParameters"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "updateResponseRecord" : {},
+  "repaymentInstanceRecord" : {
+    "repaymentTransaction" : {
+      "repaymentTransactionPayerProductInstanceReference" : "785874",
+      "repaymentTransactionCurrency" : "USD",
+      "repaymentTransactionType" : "repaymentTransactionType",
+      "billingInstanceReference" : "726548",
+      "repaymentTransactionAmount" : "USD 250",
+      "repaymentTransactionPayerReference" : "750456",
+      "repaymentTransactionPayerBankReference" : "721156",
+      "repaymentTransactionValueDate" : "09-22-2018"
+    }
+  },
+  "repaymentUpdateActionTaskRecord" : {},
+  "repaymentUpdateActionTaskReference" : "RUATR714182"
+}

@@ -1,0 +1,31 @@
+{
+  "creditPlanRetrieveActionTaskRecord" : {},
+  "cRCreditChargeCardFulfillmentArrangementInstanceRecord" : {
+    "productInstanceReference" : "731498",
+    "restrictionOptionSetting" : "restrictionOptionSetting",
+    "entitlementOptionSetting" : "entitlementOptionSetting",
+    "restrictionOptionDefinition" : "restrictionOptionDefinition",
+    "customerReference" : "793487",
+    "entitlementOptionDefinition" : "entitlementOptionDefinition",
+    "partyReference" : "779412"
+  },
+  "creditPlanRetrieveActionTaskReference" : "CPRATR740751",
+  "creditPlanInstanceAnalysis" : {
+    "creditPlanInstanceAnalysisReport" : {},
+    "creditPlanInstanceAnalysisRecord" : {},
+    "creditPlanInstanceAnalysisParameters" : "creditPlanInstanceAnalysisParameters",
+    "creditPlanInstanceAnalysisReportType" : "creditPlanInstanceAnalysisReportType"
+  },
+  "creditPlanRetrieveActionResponse" : "creditPlanRetrieveActionResponse",
+  "creditPlanInstanceRecord" : {
+    "creditPlanType" : "creditPlanType",
+    "creditPlanAccountReference" : "750399",
+    "creditPlanTerms" : "creditPlanTerms"
+  },
+  "creditPlanInstanceReport" : {
+    "creditPlanInstanceReportType" : "creditPlanInstanceReportType",
+    "creditPlanInstanceReportRecord" : {},
+    "creditPlanInstanceReport" : {},
+    "creditPlanInstanceReportParameters" : "creditPlanInstanceReportParameters"
+  }
+}

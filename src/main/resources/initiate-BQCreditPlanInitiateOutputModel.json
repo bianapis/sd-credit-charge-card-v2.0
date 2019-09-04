@@ -1,0 +1,11 @@
+{
+  "creditPlanInitiateActionRecord" : {},
+  "creditPlanInstanceRecord" : {
+    "creditPlanType" : "creditPlanType",
+    "creditPlanAccountReference" : "763206",
+    "creditPlanTerms" : "creditPlanTerms"
+  },
+  "creditPlanInstanceReference" : "CPIR738666",
+  "creditPlanInitiateActionReference" : "CPIAR753589",
+  "creditPlanInstanceStatus" : "creditPlanInstanceStatus"
+}

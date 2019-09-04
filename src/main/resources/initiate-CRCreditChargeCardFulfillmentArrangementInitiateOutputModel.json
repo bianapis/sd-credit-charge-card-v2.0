@@ -1,0 +1,30 @@
+{
+  "creditChargeCardFulfillmentArrangementInitiateActionReference" : "CCCFAIAR795207",
+  "cRCreditChargeCardFulfillmentArrangementInstanceRecord" : {
+    "associations" : {
+      "associationReference" : "732742",
+      "associationType" : "associationType",
+      "associationObligationEntitlement" : "associationObligationEntitlement"
+    },
+    "productInstanceReference" : "757204",
+    "restrictionOptionSetting" : "restrictionOptionSetting",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "entitlementOptionSetting" : "entitlementOptionSetting",
+    "restrictionOptionDefinition" : "restrictionOptionDefinition",
+    "statementsSchedule" : {
+      "statementReport" : {}
+    },
+    "positionLimits" : {
+      "positionLimitValue" : "positionLimitValue"
+    },
+    "entitlementOptionDefinition" : "entitlementOptionDefinition",
+    "configurationOptions" : {
+      "creditChargeCardFulfillmentArrangementOptionDefinition" : "creditChargeCardFulfillmentArrangementOptionDefinition"
+    }
+  },
+  "creditChargeCardFulfillmentArrangementInstanceReference" : "CCCFAIR774776",
+  "creditChargeCardFulfillmentArrangementInitiateActionRecord" : {},
+  "creditChargeCardFulfillmentArrangementInstanceStatus" : "creditChargeCardFulfillmentArrangementInstanceStatus"
+}

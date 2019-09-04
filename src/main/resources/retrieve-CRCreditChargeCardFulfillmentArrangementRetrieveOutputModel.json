@@ -1,0 +1,56 @@
+{
+  "cRCreditChargeCardFulfillmentArrangementInstanceRecord" : {
+    "allowedAccess" : "allowedAccess",
+    "associations" : {
+      "associationReference" : "721473",
+      "associationType" : "associationType",
+      "associationObligationEntitlement" : "associationObligationEntitlement"
+    },
+    "taxReference" : "779331",
+    "restrictionOptionSetting" : "restrictionOptionSetting",
+    "restrictionOptionDefinition" : "restrictionOptionDefinition",
+    "statementsSchedule" : {
+      "statementPeriod" : "statementPeriod",
+      "statementTransactionType" : "statementTransactionType",
+      "statementType" : "statementType",
+      "statementReport" : {}
+    },
+    "positionLimits" : {
+      "positionLimitSettings" : "positionLimitSettings",
+      "positionLimitType" : "positionLimitType",
+      "positionLimitValue" : "positionLimitValue"
+    },
+    "secondaryBillingCurrency" : "USD",
+    "accountCurrency" : "USD",
+    "configurationOptions" : {
+      "creditChargeCardFulfillmentArrangementOptionDefinition" : "creditChargeCardFulfillmentArrangementOptionDefinition",
+      "creditChargeCardFulfillmentArrangementOptionSetting" : "creditChargeCardFulfillmentArrangementOptionSetting"
+    },
+    "partyReference" : "748431",
+    "bankBranchLocationReference" : "702990",
+    "productInstanceReference" : "770465",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "entitlementOptionSetting" : "entitlementOptionSetting",
+    "customerReference" : "750879",
+    "linkedAccounts" : {
+      "accountDetails" : "accountDetails",
+      "linkType" : "linkType"
+    },
+    "entitlementOptionDefinition" : "entitlementOptionDefinition"
+  },
+  "creditChargeCardFulfillmentArrangementInstanceReportRecord" : {
+    "creditChargeCardFulfillmentArrangementInstanceReportData" : "creditChargeCardFulfillmentArrangementInstanceReportData",
+    "creditChargeCardFulfillmentArrangementInstanceReportType" : "creditChargeCardFulfillmentArrangementInstanceReportType",
+    "creditChargeCardFulfillmentArrangementInstanceReport" : {}
+  },
+  "creditChargeCardFulfillmentArrangementInstanceAnalysis" : {
+    "creditChargeCardFulfillmentArrangementInstanceAnalysisReport" : {},
+    "creditChargeCardFulfillmentArrangementInstanceAnalysisData" : "creditChargeCardFulfillmentArrangementInstanceAnalysisData",
+    "creditChargeCardFulfillmentArrangementInstanceAnalysisReportType" : "creditChargeCardFulfillmentArrangementInstanceAnalysisReportType"
+  },
+  "creditChargeCardFulfillmentArrangementRetrieveActionResponse" : "creditChargeCardFulfillmentArrangementRetrieveActionResponse",
+  "creditChargeCardFulfillmentArrangementRetrieveActionTaskReference" : "CCCFARATR748085",
+  "creditChargeCardFulfillmentArrangementRetrieveActionTaskRecord" : {}
+}

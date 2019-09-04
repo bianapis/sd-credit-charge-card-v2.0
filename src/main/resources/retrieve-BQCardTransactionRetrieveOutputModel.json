@@ -1,0 +1,41 @@
+{
+  "cRCreditChargeCardFulfillmentArrangementInstanceRecord" : {
+    "productInstanceReference" : "735002",
+    "customerReference" : "719771",
+    "partyReference" : "716932"
+  },
+  "cardTransactionRetrieveActionTaskRecord" : {},
+  "cardTransactionInstanceRecord" : {
+    "cardTransaction" : {
+      "cardTransactionProductInstanceReference" : "761194",
+      "cardTransactionMerchantReference" : "741120",
+      "cardTransactionInterchargeFee" : "USD 250",
+      "cardTransactionIssuingBankReference" : "709177",
+      "cardTransactionType" : "cardTransactionType",
+      "cardTransactionMerchantAcquiringBankReference" : "735309",
+      "cardTransactionLocationReference" : "746766",
+      "cardTransactionCurrency" : "USD",
+      "cardTransactionAmountType" : "cardTransactionAmountType",
+      "cardTransactionFXConversionCharge" : "USD 250",
+      "cardTransactionNetworkReference" : "762863",
+      "cardTransactionProductServiceReference" : "707944",
+      "cardTransactionDateTime" : "09-22-2018",
+      "cardTransactionAmount" : "USD 250",
+      "cardTransactionAuthorizationRecord" : {}
+    }
+  },
+  "cardTransactionInstanceAnalysis" : {
+    "cardTransactionInstanceAnalysisReport" : {},
+    "cardTransactionInstanceAnalysisReportType" : "cardTransactionInstanceAnalysisReportType",
+    "cardTransactionInstanceAnalysisRecord" : {},
+    "cardTransactionInstanceAnalysisParameters" : "cardTransactionInstanceAnalysisParameters"
+  },
+  "cardTransactionInstanceReport" : {
+    "cardTransactionInstanceReportRecord" : {},
+    "cardTransactionInstanceReportType" : "cardTransactionInstanceReportType",
+    "cardTransactionInstanceReportParameters" : "cardTransactionInstanceReportParameters",
+    "cardTransactionInstanceReport" : {}
+  },
+  "cardTransactionRetrieveActionTaskReference" : "CTRATR748206",
+  "cardTransactionRetrieveActionResponse" : "cardTransactionRetrieveActionResponse"
+}

@@ -1,0 +1,11 @@
+{
+  "creditPlanRequestActionTaskRecord" : {},
+  "creditPlanRequestActionTaskReference" : "CPRATR788461",
+  "creditPlanInstanceRecord" : {
+    "creditPlanType" : "creditPlanType",
+    "creditPlanAccountReference" : "789818",
+    "creditPlanTerms" : "creditPlanTerms"
+  },
+  "requestResponseRecord" : {},
+  "creditPlanRequestRecordReference" : "CPRRR785840"
+}
