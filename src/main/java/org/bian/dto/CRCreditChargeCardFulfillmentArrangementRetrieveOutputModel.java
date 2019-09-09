@@ -32,6 +32,7 @@ public class CRCreditChargeCardFulfillmentArrangementRetrieveOutputModel   {
    * @return cRCreditChargeCardFulfillmentArrangementInstanceRecord
   **/
 
+  @JsonProperty("cRCreditChargeCardFulfillmentArrangementInstanceRecord")
   public CRCreditChargeCardFulfillmentArrangementRetrieveOutputModelCRCreditChargeCardFulfillmentArrangementInstanceRecord getCRCreditChargeCardFulfillmentArrangementInstanceRecord() {
     return cRCreditChargeCardFulfillmentArrangementInstanceRecord;
   }

@@ -35,6 +35,7 @@ public class BQServiceFeesRetrieveOutputModel   {
    * @return cRCreditChargeCardFulfillmentArrangementInstanceRecord
   **/
 
+  @JsonProperty("cRCreditChargeCardFulfillmentArrangementInstanceRecord")
   public BQServiceFeesRetrieveOutputModelCRCreditChargeCardFulfillmentArrangementInstanceRecord getCRCreditChargeCardFulfillmentArrangementInstanceRecord() {
     return cRCreditChargeCardFulfillmentArrangementInstanceRecord;
   }

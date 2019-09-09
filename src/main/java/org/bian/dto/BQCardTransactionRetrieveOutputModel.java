@@ -35,6 +35,7 @@ public class BQCardTransactionRetrieveOutputModel   {
    * @return cRCreditChargeCardFulfillmentArrangementInstanceRecord
   **/
 
+  @JsonProperty("cRCreditChargeCardFulfillmentArrangementInstanceRecord")
   public BQCardTransactionRetrieveOutputModelCRCreditChargeCardFulfillmentArrangementInstanceRecord getCRCreditChargeCardFulfillmentArrangementInstanceRecord() {
     return cRCreditChargeCardFulfillmentArrangementInstanceRecord;
   }
